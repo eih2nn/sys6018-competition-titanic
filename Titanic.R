@@ -1,4 +1,4 @@
-#Titanic work
+#Titanic Project on Github
 #eih2nn
 
 install.packages("tidyverse") # Download library; (only required once)
